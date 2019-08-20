@@ -86,3 +86,7 @@ padding: 10px;
 .list-inline i:hover{
 	color:black;
 }
+
+#introduction p{
+	margin-bottom: 40px
+}
